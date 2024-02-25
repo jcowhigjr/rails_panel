@@ -23,8 +23,8 @@ If you have a problem installing extension from Chrome Store or just want to run
 
 ## Supported environments
 
-* Rails 4, 5 and 6
-* Ruby 2.x
+* Rails 5, 6 and 7
+* Ruby 3
 
 ## Editor integration
 
@@ -47,10 +47,6 @@ and your browser will refresh like a madman.
 ## Clearing the Console
 
 You can clear the panel with the usual shortcuts of ⌘+K or ctrl+L.
-
-## Code status
-
-[![CircleCI](https://circleci.com/gh/dejan/rails_panel.svg?style=svg&circle-token=56cf52dd2729102bb9b6e23d5e2fcc8eff0875b3)](https://circleci.com/gh/dejan/rails_panel)
 
 ## Licence
 
