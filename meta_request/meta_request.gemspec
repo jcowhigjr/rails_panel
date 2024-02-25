@@ -14,7 +14,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'rack-contrib', '>= 1.1', '< 3'
 
-  gem.add_dependency 'railties', '>= 3.0.0', '< 7.1'
+  gem.add_dependency 'railties', '>= 3.0.0', '< 7.2'
 
   gem.add_development_dependency 'rspec', '~> 3.8.0'
   gem.add_development_dependency 'rubocop', '~> 0.74.0'
